@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "name": "Яблоко",
+            "price": 50,
+            "quantity": 96
+        },
+        {
+            "name": "Молоко",
+            "price": 60,
+            "quantity": 49
+        },
+        {
+            "name": "Булка",
+            "price": 50,
+            "quantity": 100
+        },
+        {
+            "name": "Сосиски",
+            "price": 300,
+            "quantity": 100
+        }
+    ],
+    "cart": []
+}
